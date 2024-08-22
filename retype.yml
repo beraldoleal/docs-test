@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: docs.example.com # Add your website address here
+branding:
+  title: Just a test
+  label: Docs
+edit:
+  repo: "https://github.com/beraldoleal/docs-test/edit/"
+  base: /
+  branch: main
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+- text: foo
+  link: https://foo.bar/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
